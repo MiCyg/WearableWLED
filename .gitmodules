@@ -1,0 +1,10 @@
+[submodule "WearableWLED_Mechanical"]
+	path = WearableWLED_Mechanical
+	url = https://github.com/MiCyg/WearableWLED_Mechanical
+[submodule "WLED"]
+	path = WLED
+	url = https://github.com/MiCyg/WLED
+	branch = WearableWLED
+[submodule "WearableWLED_Hardware"]
+	path = WearableWLED_Hardware
+	url = https://github.com/MiCyg/WearableWLED_Hardware
