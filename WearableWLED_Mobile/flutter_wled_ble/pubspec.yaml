@@ -1,0 +1,20 @@
+name: flutter_wled_ble
+description: A simple Flutter BLE client for WLED over BLE (animations + configuration)
+publish_to: "none"
+version: 0.1.0
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_reactive_ble: ^5.0.2
+  provider: ^6.0.0
+  flutter_colorpicker: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
